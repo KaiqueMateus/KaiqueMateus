@@ -1,7 +1,7 @@
 ### Fala aí, eu sou o Kaique Mateus e trabalho como técnico de informática 👋
 
 - 🔭 Hoje trabalho como Técnico de Informática
-- 🌱 Cursando Ciência da COmputação
+- 🌱 Cursando Ciência da Computação
 - 📫 Contate-me no e-mail: kaique8mateus@gmail.com
 
 
