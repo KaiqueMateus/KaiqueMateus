@@ -1,7 +1,8 @@
-### Fala aí, eu sou o Kaique Mateus e trabalho como técnico de informática 👋
+### Fala aí, eu sou o Kaique Mateus e trabalho como Jovem Aprendiz em informática 👋
 
 - 🔭 Hoje trabalho como Jovem Aprendiz em Informática
 - 🌱 Cursando Ciência da Computação
+- 🎓 Formado em Técnico de Informática
 - 📫 Contate-me no e-mail: kaique8mateus@gmail.com
 
 
