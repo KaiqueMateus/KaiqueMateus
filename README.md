@@ -1,4 +1,4 @@
-### Fala aí, eu sou o Kaique Mateus e trabalho como Jovem Aprendiz em informática 👋
+### E aí, eu sou o Kaique Mateus e trabalho como Jovem Aprendiz em informática 👋
 
 - 🔭 Hoje trabalho como Jovem Aprendiz em Informática
 - 🌱 Cursando Ciência da Computação
