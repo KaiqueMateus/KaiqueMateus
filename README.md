@@ -1,6 +1,6 @@
-### E aí, eu sou o Kaique Mateus e trabalho como Estagiário de Desenvolvimento. 👋
+### E aí, eu sou o Kaique Mateus e trabalho como Estagiário de TI. 👋
 
-- 🔭 Hoje trabalho como Estagiário de Desenvolvimento.
+- 🔭 Hoje trabalho como Estagiário de TI.
 - 🌱 Cursando Ciência da Computação
 - 🎓 Formado em Técnico de Informática
 - 📫 Contate-me no e-mail: kaique8mateus@gmail.com
