@@ -1,5 +1,3 @@
-### 🚀 Habilidades & Tecnologias
-
 ### 📊 Análise de Dados, BI & Automação
 <div>
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
