@@ -5,10 +5,10 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Automação-FF6F00?style=for-the-badge&logo=automation&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ETL-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Analytics-4A90E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business_Intelligence-FFD700?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
