@@ -80,7 +80,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ---
 
-<img width="898" height="668" alt="Preview do Painel de Vendas - Iplacas e Shock Visual" src="https://github.com/user-attachments/assets/ff62df68-af99-4a5f-8aff-07a97e4bef52" />
+<img width="1020" height="764" alt="Animação" src="https://github.com/user-attachments/assets/b4987dfa-f954-4c08-9b11-e362bb4d0753" />
 
 ---
 
