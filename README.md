@@ -86,7 +86,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ## Sumário
 
-- #projeto-01--painel-de-vendas--iplacas-e-shock-visual
+- [Projeto 01 - Painel de Vendas - Iplacas e Shock Visual](https://github.com/KaiqueMateus#-projeto-01--painel-de-vendas--iplacas-e-shock-visual)
 
 ---
 
