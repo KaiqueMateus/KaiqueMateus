@@ -80,7 +80,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ---
 
-<img width="1020" height="764" alt="Animação" src="https://github.com/user-attachments/assets/b4987dfa-f954-4c08-9b11-e362bb4d0753" />
+<img width="1020" height="764" alt="Animação" src="https://github.com/user-attachments/assets/2f229e8d-4570-4abd-8232-bf2d6f56ddcf" />
 
 ---
 
