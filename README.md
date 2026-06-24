@@ -79,6 +79,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 **Visualização & Análise**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?logo=qliksense&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFCA28)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
