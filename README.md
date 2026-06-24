@@ -109,9 +109,6 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ---
 
-<img width="1020" height="764" alt="Animação" src="https://github.com/user-attachments/assets/2f229e8d-4570-4abd-8232-bf2d6f56ddcf" />
-
----
 
 ## Sumário
 
@@ -129,6 +126,11 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ## 🗂 Projeto 01 — Painel de Vendas — Iplacas e Shock Visual
 
+---
+
+<img width="1020" height="764" alt="Animação" src="https://github.com/user-attachments/assets/2f229e8d-4570-4abd-8232-bf2d6f56ddcf" />
+
+---
 ### 🎯 Objetivos do Case
 
 - Consolidar todas as vendas das empresas **Iplacas** e **Shock Visual** em um único dashboard, segmentadas por canal (Shopee, Mercado Livre e Vendas Internas).
@@ -159,6 +161,48 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 🔗 **Link para o repositório completo:** [[github.com/seu-usuario/painel-vendas-iplacas-shock](https://github.com/seu-usuario/painel-vendas-iplacas-shock](https://github.com/KaiqueMateus/Freelancer_Shock/tree/main))
 🔗 **Link para o projeto no 99Freelas:** [Criação de gráfico e relatório via Power BI](https://www.99freelas.com.br/project/criacao-de-grafico-e-relatorio-via-power-bi-759364)
+
+---
+
+## 🗂 Projeto 02 — Painel de Acompanhamento de TMR — PETRONECT
+
+---
+
+<img width="1302" height="726" alt="Animação2" src="https://github.com/user-attachments/assets/5aaa83e7-45e7-474c-9e31-fc0ca7ce8552" />
+
+---
+### 🎯 Objetivos do Case
+
+- Consolidar e monitorar o **Tempo Médio de Resolução (TMR)** e o Tempo Médio de Atendimento (TMA) dos chamados operacionais da Petronect em um único paine
+- Acompanhar o cumprimento de **SLA (Service Level Agreement)** entre atendimentos dentro e fora do prazo.
+- Integrar múltiplas fontes de dados **SAP, S/4HANA, ServiceNow e bases auxiliares em Excel** — em uma visão unificada e confiável.
+- Segmentar os chamados por tipo **(Incidentes x Serviços)** e por **área operacional (Cadastro x Compras)** para análise estrutural.
+- Identificar **gargalos operacionais**, picos de demanda e variações mensais no volume de chamados.
+- Fornecer uma **visão executiva e interativa** para apoiar a tomada de decisão das equipes de Operações, Suporte e Relacionamento.
+
+### 🚀 Tecnologias Utilizadas
+
+- **Power BI Desktop**
+- **Alteryx Designer** (ETL e integração entre sistemas)
+- **SAP / S/4HANA** (fontes transacionais)
+- **ServiceNow** (gestão de chamados)
+- **SQL** para consultas e tratamento de dados
+- **DAX** para medidas, KPIs e indicadores de SLA
+- **Excel** como fonte complementar
+- **Git & GitHub** para versionamento
+
+### 📊 Resultados e 💡 Insights
+
+- **Visão unificada e em tempo real** do desempenho operacional, eliminando a extração manual de dados em múltiplos sistemas (SAP, S/4HANA e ServiceNow).
+- Implementação de **KPIs estratégicos**: Volume de Chamados (Saídas), TMA em Horas, TMR, SLA dentro do prazo e segmentação por área (Cadastro x Compras).
+- Identificação **rápida de gargalos** operacionais e picos de demanda mensal, permitindo redistribuição de esforço entre equipes.
+- **Acompanhamento contínuo do SLA**, com indicadores claros de chamados dentro e fora do prazo, reforçando a governança da operação.
+- **Redução da dependência de análises manuais**, aumentando a agilidade na resposta operacional e a confiabilidade dos indicadores.
+- **Suporte direto à tomada de decisão** das áreas de Operações, Suporte e Relacionamento, especialmente em momentos críticos do portal de compras Petrobras.
+
+### 📖 Repositório e Documentação
+
+🔗 **Link para o repositório completo:** [[github.com/seu-usuario/painel-vendas-iplacas-shock][(https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main))
 
 ---
 
