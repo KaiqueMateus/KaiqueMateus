@@ -113,6 +113,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 ## Sumário
 
 - [Projeto 01 - Painel de Vendas - Iplacas e Shock Visual](https://github.com/KaiqueMateus#-projeto-01--painel-de-vendas--iplacas-e-shock-visual)
+- [Projeto 02 - Painel de Acompanhamento de TMR - Petronect](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main)
 
 ---
 
