@@ -72,11 +72,39 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 **Portfólio Web:** https://sites.google.com/view/portfolio-kaique-mateus/projetos
 **Contato:** kaique8mateus@gmail.com
 
+**Licença & Documentação**
+
 ![License](https://img.shields.io/badge/License-MIT-blue)
+
+**Visualização & Análise**
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFCA28)
-![Power Query](https://img.shields.io/badge/Power_Query_M-1F6FEB)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+**ETL & Automação**
+
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D4)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+**Bancos de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+**ERP & Service Management**
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?logo=sap&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?logo=servicenow&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 
