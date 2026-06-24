@@ -121,7 +121,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 | # | Projeto | Tema | Stack | Técnicas-chave | Links |
 |---|---------|------|-------|----------------|-------|
 | 01 | 📊 Painel de Vendas — Iplacas e Shock Visual | Vendas multicanal: orçamento x realizado, CAC e retrabalhos | Power BI • Excel • DAX • M | Modelagem Star Schema • KPIs • Comparativo Meta x Realizado • Análise de CAC | 📁 [Repositório](https://github.com/KaiqueMateus/Freelancer_Shock/tree/main) • 📊 [Dashboard](https://github.com/KaiqueMateus/Freelancer_Shock/tree/main/Projeto) • 🌐 [99Freelas](https://www.99freelas.com.br/project/criacao-de-grafico-e-relatorio-via-power-bi-759364) |
-| 02 | 📊 Painel de Acompanhamento de TMR — Petronect | Monitoramento de SLA e TMR de chamados operacionais | Power BI • SAP • S/4HANA • ServiceNow • SQL • Alteryx • DAX | Integração multi-fonte • Indicadores de SLA • Segmentação por Área e Tipo • Análise de Gargalos Operacionais | 📁 [Repositório](https://github.com/seu-usuario/painel-tmr-petronect) • 📊 [Dashboard](https://github.com/seu-usuario/painel-tmr-petronect) |
+| 02 | 📊 Painel de Acompanhamento de TMR — Petronect | Monitoramento de SLA e TMR de chamados operacionais | Power BI • SAP • S/4HANA • ServiceNow • SQL • Alteryx • DAX | Integração multi-fonte • Indicadores de SLA • Segmentação por Área e Tipo • Análise de Gargalos Operacionais | 📁 [Repositório]([https://github.com/seu-usuario/painel-tmr-petronect](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main)) • 📊 [Dashboard](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main/Painel%20SIGAT%20-%20Acompanhamento%20TMR) |
 
 ---
 
