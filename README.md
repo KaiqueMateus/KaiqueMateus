@@ -114,6 +114,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 - [Projeto 01 - Painel de Vendas - Iplacas e Shock Visual](https://github.com/KaiqueMateus#-projeto-01--painel-de-vendas--iplacas-e-shock-visual)
 - [Projeto 02 - Painel de Acompanhamento de TMR - Petronect](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main)
+- [Projeto 03 - Mapa de Riscos - Tribunal de Justiça do Paraná]([https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main](https://github.com/KaiqueMateus/MapaDeRiscos-TJPR/blob/main/README.md))
 
 ---
 
@@ -122,7 +123,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 | # | Projeto | Tema | Stack | Técnicas-chave | Links |
 |---|---------|------|-------|----------------|-------|
 | 01 | 📊 Painel de Vendas — Iplacas e Shock Visual | Vendas multicanal: orçamento x realizado, CAC e retrabalhos | Power BI • Excel • DAX • M | Modelagem Star Schema • KPIs • Comparativo Meta x Realizado • Análise de CAC | 📁 [Repositório](https://github.com/KaiqueMateus/Freelancer_Shock/tree/main) • 📊 [Dashboard](https://github.com/KaiqueMateus/Freelancer_Shock/tree/main/Projeto) • 🌐 [99Freelas](https://www.99freelas.com.br/project/criacao-de-grafico-e-relatorio-via-power-bi-759364) |
-| 02 | 📊 Painel de Acompanhamento de TMR — Petronect | Monitoramento de SLA e TMR de chamados operacionais | Power BI • SAP • S/4HANA • ServiceNow • SQL • Alteryx • DAX | Integração multi-fonte • Indicadores de SLA • Segmentação por Área e Tipo • Análise de Gargalos Operacionais | 📁 [Repositório]([https://github.com/seu-usuario/painel-tmr-petronect](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main)) • 📊 [Dashboard](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main/Painel%20SIGAT%20-%20Acompanhamento%20TMR) |
+| 02 | 📊 Painel de Acompanhamento de TMR — Petronect | Monitoramento de SLA e TMR de chamados operacionais | Power BI • SAP • S/4HANA • ServiceNow • SQL • Alteryx • DAX | Integração multi-fonte • Indicadores de SLA • Segmentação por Área e Tipo • Análise de Gargalos Operacionais | 📁 [Repositório](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta) • 📊 [Dashboard](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main/Painel%20SIGAT%20-%20Acompanhamento%20TMR) |
 | 03 | 🛡️ Sistema de Gestão de Riscos Corporativos — TJPR | Governança, Risco e Compliance (GRC) para gestão pública | JavaScript • Supabase • PostgreSQL • Chart.js • jsPDF • Vercel | Full-Stack Web App • ISO 31000 • Dashboard Interativo • Matriz de Risco 5×5 • Multi-tenant • RLS • Trilha de Auditoria | 📁 [[Repositório](https://github.com/KaiqueMateus/MapaDeRiscos-TJPR/blob/main/README.md) • 🌐 [https://kaiquemateus.github.io/mapa-riscos/](https://mapa-de-riscos-tjpr.vercel.app/login.html) • 📊 [https://kaiquemateus.github.io/mapa-riscos/](https://mapa-de-riscos-tjpr.vercel.app/login.html) |
 ---
 
@@ -235,9 +236,21 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 - **Git & GitHub** — versionamento
 - **Metodologia** — ISO 31000 • COSO ERM
 
-### 🏗️ Arquitetura da Aplicação
+### 🏗️ Arquitetura da Aplicação e Resultados
 
-### 📊 Resultados e 💡 Insights - **Centralização total** da gestão de riscos multi-divisão em uma plataforma única, eliminando o retrabalho em planilhas isoladas. - **Padronização do cálculo de risco** conforme ISO 31000, garantindo consistência entre todas as divisões da secretaria. - Implementação de **KPIs estratégicos**: Total de Riscos, Distribuição por Faixa (Baixo/Médio/Alto), Concentração na Matriz, Ranking de Responsáveis, Eficiência de Tratamento e Riscos em Atraso. - **Matriz de Risco 5×5 interativa** com destaque escalonado por criticidade — riscos altos pulsam em vermelho, chamando atenção imediata do gestor. - **Filtros cruzados estilo Power BI**: clique em qualquer visual (matriz, KPI, ranking) filtra todos os demais dashboards em tempo real. - **Cálculo automático de Risco Final** após aplicação do plano de tratamento, evidenciando visualmente a redução da exposição na matriz. - **Detecção automática de tratamentos em atraso**, com indicadores visuais e alertas para o gestor priorizar ações corretivas. - **Trilha de auditoria completa** — cada ação (login, criação, edição, exclusão, tratamento) fica registrada para fins de compliance e LGPD. - **Relatórios em PDF profissionais** com cabeçalho institucional repetido em todas as páginas, paginação inteligente (10 registros por página) e matriz de risco isolada em página exclusiva. ### 🔒 Segurança e Governança - **Row Level Security (RLS)** no PostgreSQL — controle de acesso em nível de linha, não apenas de aplicação. - **Segregação por perfil**: gestor tem visão consolidada e pode criar em qualquer divisão; usuário comum é restrito à sua. - **Autenticação por matrícula funcional** — modelo aderente ao contexto do serviço público. - **Conformidade LGPD** — dados sensíveis isolados, credenciais fora do versionamento (`.gitignore`). ### 📖 Repositório e Documentação 🔗 **Link para o repositório completo:** https://github.com/KaiqueMateus/mapa-riscos 🔗 **Demo ao vivo (dados sintéticos):** https://kaiquemateus.github.io/mapa-riscos/ > 🔑 **Credenciais de demonstração:** > > | Perfil | Matrícula | Senha | > |--------|-----------|-------| > | 👩‍💼 Gestora (acesso total) | `10001` | `DEMO2026` | > | 👤 Usuário comum | `10002` | `DEMO2026` | > | 🔧 Admin | `99999` | `DEMO2026` | > ⚠️ **Nota:** Este repositório contém **dados sintéticos e anonimizados** para fins de portfólio. Nenhum dado real de servidores ou operações do TJPR está presente. A estrutura, modelagem e lógica analítica do sistema original foram integralmente preservadas.
+A solução foi construída em três camadas integradas: um **frontend em JavaScript Vanilla** (HTML5 + CSS3, sem frameworks) responsável pelos módulos de Registro, Tratamento e Dashboard; um **backend serverless via Supabase**, entregando autenticação, banco PostgreSQL com Row Level Security (RLS) e storage de anexos; e um **deploy em CDN global** via Vercel e GitHub Pages, com HTTPS e deploy automático a cada commit.
+
+### 📊 Resultados e 💡 Insights
+
+- **Centralização total** da gestão de riscos multi-divisão em uma plataforma única, eliminando o retrabalho em planilhas isoladas.
+- **Padronização do cálculo de risco** conforme ISO 31000, garantindo consistência entre todas as divisões da secretaria.
+- Implementação de **KPIs estratégicos**: Total de Riscos, Distribuição por Faixa (Baixo/Médio/Alto), Concentração na Matriz, Ranking de Responsáveis, Eficiência de Tratamento e Riscos em Atraso.
+- **Matriz de Risco 5×5 interativa** com destaque escalonado por criticidade — riscos altos pulsam em vermelho, chamando atenção imediata do gestor.
+- **Filtros cruzados estilo Power BI**: clique em qualquer visual (matriz, KPI, ranking) filtra todos os demais dashboards em tempo real.
+- **Cálculo automático de Risco Final** após aplicação do plano de tratamento, evidenciando visualmente a redução da exposição na matriz.
+- **Detecção automática de tratamentos em atraso**, com indicadores visuais e alertas para o gestor priorizar ações corretivas.
+- **Trilha de auditoria completa** — cada ação (login, criação, edição, exclusão, tratamento) fica registrada para fins de compliance e LGPD.
+- **Relatórios em PDF profissionais** com cabeçalho institucional repetido em todas as páginas, paginação inteligente (10 registros por página) e matriz de risco isolada em página exclusiva.
 
 ---
 
