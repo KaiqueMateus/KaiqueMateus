@@ -209,14 +209,12 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ---
 
----
-
 ## 🗂 Projeto 03 — Sistema de Gestão de Riscos Corporativos — TJPR
 
 ---
 
 <img width="1918" height="1026" alt="Animação" src="https://github.com/user-attachments/assets/000912aa-9464-465d-bcd3-8e6d01c84cd4" />
-
+---
 - Implementar a metodologia **ISO 31000** com cálculo automatizado de **Nível de Risco**, **Risco Residual** e **Risco Final** pós-tratamento.
 - Substituir planilhas manuais e fragmentadas por uma **plataforma multiusuário e multi-divisão**, com padronização entre todas as áreas.
 - Entregar um **dashboard executivo em tempo real** com KPIs, matriz de risco 5×5 dinâmica, filtros cruzados (estilo Power BI) e ranking de responsáveis.
@@ -240,7 +238,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 A solução foi construída em três camadas integradas: um **frontend em JavaScript Vanilla** (HTML5 + CSS3, sem frameworks) responsável pelos módulos de Registro, Tratamento e Dashboard; um **backend serverless via Supabase**, entregando autenticação, banco PostgreSQL com Row Level Security (RLS) e storage de anexos; e um **deploy em CDN global** via Vercel e GitHub Pages, com HTTPS e deploy automático a cada commit.
 
-### 📊 Resultados e 💡 Insights
+### 📊 Resultados e Insights
 
 - **Centralização total** da gestão de riscos multi-divisão em uma plataforma única, eliminando o retrabalho em planilhas isoladas.
 - **Padronização do cálculo de risco** conforme ISO 31000, garantindo consistência entre todas as divisões da secretaria.
