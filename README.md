@@ -114,7 +114,7 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 - [Projeto 01 - Painel de Vendas - Iplacas e Shock Visual](https://github.com/KaiqueMateus#-projeto-01--painel-de-vendas--iplacas-e-shock-visual)
 - [Projeto 02 - Painel de Acompanhamento de TMR - Petronect](https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main)
-- [Projeto 03 - Mapa de Riscos - Tribunal de Justiça do Paraná]([https://github.com/KaiqueMateus/Tempo_M-dio_Resposta/tree/main](https://github.com/KaiqueMateus/MapaDeRiscos-TJPR/blob/main/README.md))
+- [Projeto 03 - Mapa de Riscos - Tribunal de Justiça do Paraná](https://github.com/KaiqueMateus/MapaDeRiscos-TJPR)
 
 ---
 
@@ -214,7 +214,9 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 ---
 
 <img width="1918" height="1026" alt="Animação" src="https://github.com/user-attachments/assets/000912aa-9464-465d-bcd3-8e6d01c84cd4" />
+
 ---
+
 - Implementar a metodologia **ISO 31000** com cálculo automatizado de **Nível de Risco**, **Risco Residual** e **Risco Final** pós-tratamento.
 - Substituir planilhas manuais e fragmentadas por uma **plataforma multiusuário e multi-divisão**, com padronização entre todas as áreas.
 - Entregar um **dashboard executivo em tempo real** com KPIs, matriz de risco 5×5 dinâmica, filtros cruzados (estilo Power BI) e ranking de responsáveis.
