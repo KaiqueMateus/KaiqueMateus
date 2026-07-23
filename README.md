@@ -73,7 +73,7 @@
 Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em resolver problemas de negócio de ponta a ponta (coleta → modelagem → visualização → tomada de decisão).
 
 **LinkedIn:** https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/
-**Portfólio Web:** https://sites.google.com/view/portfolio-kaique-mateus/projetos
+**Portfólio Web:** https://portfolio-k9m8.vercel.app/
 **Contato:** kaique8mateus@gmail.com
 
 **Licença & Documentação**
