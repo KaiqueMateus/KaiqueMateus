@@ -214,8 +214,8 @@ Showcase de projetos em **Power BI, DAX, SQL, Qlik Sense e Python**, com foco em
 
 ---
 
-<!-- Substitua pelo GIF/print do seu dashboard após tirar a screenshot -->
-<img width="1200" alt="Dashboard Executivo — Sistema de Gestão de Riscos" src="https://github.com/user-attachments/assets/COLE_Oweb full-stack** (do zero) para digitalizar e centralizar o ciclo completo de gestão de riscos organizacionais em uma secretaria pública.
+<img width="1918" height="1026" alt="Animação" src="https://github.com/user-attachments/assets/000912aa-9464-465d-bcd3-8e6d01c84cd4" />
+
 - Implementar a metodologia **ISO 31000** com cálculo automatizado de **Nível de Risco**, **Risco Residual** e **Risco Final** pós-tratamento.
 - Substituir planilhas manuais e fragmentadas por uma **plataforma multiusuário e multi-divisão**, com padronização entre todas as áreas.
 - Entregar um **dashboard executivo em tempo real** com KPIs, matriz de risco 5×5 dinâmica, filtros cruzados (estilo Power BI) e ranking de responsáveis.
