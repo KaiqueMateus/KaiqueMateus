@@ -279,7 +279,7 @@ Com mais de 2 anos de experiência na **Petronect (portal de compras da Petrobra
 - 📧 **E-mail:** kaique8mateus@gmail.com
 - 📱 **WhatsApp:** (21) 98102-8708
 - 🔗 **LinkedIn:** [linkedin.com/in/kaique-mateus-de-souza](https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/)
-- 🌐 **Portfólio Web:** [sites.google.com/view/portfolio-kaique-mateus] https://portfolio-k9m8.vercel.app/#projects
+- 🌐 **Portfólio Web:** https://portfolio-k9m8.vercel.app/#projects
 
 ---
 
